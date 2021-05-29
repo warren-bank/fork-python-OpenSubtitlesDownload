@@ -78,8 +78,8 @@ opt_language_suffix = 'auto'
 # - 2: 2-letter (ISO639-3) language code
 # - 3: 3-letter (ISO639-2) language code
 opt_language_suffix_size = 'auto'
-# Character used to separate file path from the language code (ex: file_en.srt).
-opt_language_suffix_separator = '_'
+# Character used to separate file path from the language code (ex: file.eng.srt).
+opt_language_suffix_separator = '.'
 
 # Force downloading and storing UTF-8 encoded subtitles files.
 opt_force_utf8 = False
